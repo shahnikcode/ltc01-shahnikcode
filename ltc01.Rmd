@@ -1,0 +1,66 @@
+---
+title: "Learning Target Check 1"
+author: "First and Last Name"
+output: github_document
+---
+
+You do not need to edit anything in the `setup` R code chunk.
+Note that I am setting your figure dimensions globally in this `setup` chunk.
+Also note that this will be the only Learning Target Check that I will provide you with R code chunks and load packages for you.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(error = TRUE, fig.width = 6, fig.asp = 0.618)
+library(ggplot2)
+```
+
+This Learning Target Check assesses your knowledge of the three Learning Targets and your ability to explain your work.
+
+1. You *must* use the RStudio IDE and GitHub.
+
+## Learning Targets
+
+### [NEW] DS.2 - CORE: I can create graphical display of data that highlight key features
+
+Data were collected on 83 mammals and are provided within `{ggplot2}` as the `msleep` dataset.
+
+Use the code chunk provided below, recreate the following plot.
+Notice that I provide more informative axes labels and a title and adjust the transparency for overplotting issues.
+We have not seen how to do provide informative labels, but I think you should be able to explore how to do this.
+Remember to cite any resources that you use.
+Also, along with explaining your code, be sure to comment on what you notice in this plot.
+
+![Sleep patterns for mammals by diet](img/sleep_plot.png)
+
+```{r recreate-plot}
+
+```
+
+**First Name**:
+
+
+### [NEW] PD.1 - CORE: I can use a project-based workflow to organize and run reproducible analyses
+
+Go to your `ltc01-<username>` repo on GitHub.
+In the main directory of your repo, edit the README file with the following after the title, but before the introductory paragraph that begins with, "This Learning Target Check is due by ...":
+
+- Find a picture of your favorite mammal as a web link and display it (do not download a file or upload a file to your repo)
+- Provide a brief description of what this mammal is
+
+Do not forget to provide an explanation here.
+
+**First Name**:
+
+
+### [NEW] PD.4: I can identify and correct common collaboration errors when working with Git/GitHub
+
+Do this after completing DS.2 and PD.1.
+
+Successfully pushing your work to GitHub will satisfy this target.
+Do not forget to describe and provide an explanation for how you resolved the issue that you ran when doing this.
+
+**First Name**:
+
+
+## Wrapping Up
+
+Knit your report and verify that it looks as you intended it to. Then, verify the Submission Checklist Statements in this Learning Target Check's README.
