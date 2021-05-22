@@ -6,9 +6,10 @@ Learning Targets will be assigned roughly every two weeks and will
 contain problems for targets that have been covered through class
 Preparation, Team Activities, Follow-up, or Projects.
 
-https://images.app.goo.gl/GEbrMQCbSuXuCGBe8
+```{r, fig.width = 4,knitr::include_graphics("https:/images.app.goo.gl/GEbrMQCbSuXuCGBe8")
+```
 
-**Nikita**: This is a **Cow** that comes from the Bos *genus* and is a herbivore 	**Artiodactyla** which is domesticated and sleeps a total of 4 hrs a day.  It spends 0.7 hrs in *REM* sleep and spends about 20 hours being awake.
+**Nikita**: This is a **Cow** that comes from the Bos *genus* and is a herbivore **Artiodactyla** which is domesticated and sleeps a total of 4 hrs a day.  It spends 0.7 hrs in *REM* sleep and spends about 20 hours being awake.
 
 ## Overview
 
