@@ -6,7 +6,7 @@ Learning Targets will be assigned roughly every two weeks and will
 contain problems for targets that have been covered through class
 Preparation, Team Activities, Follow-up, or Projects.
 
-[here is my image](https://pngimg.com/uploads/cow/cow_PNG50557.png)
+[!(here is my image)](https://pngimg.com/uploads/cow/cow_PNG50557.png)
 
 **Nikita**: This is a **Cow** that comes from the Bos *genus* and is a herbivore **Artiodactyla** which is domesticated and sleeps a total of 4 hrs a day.  It spends 0.7 hrs in *REM* sleep and spends about 20 hours being awake.
 
