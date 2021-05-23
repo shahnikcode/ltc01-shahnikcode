@@ -76,7 +76,7 @@ Do this after completing DS.2 and PD.1.
 Successfully pushing your work to GitHub will satisfy this target.
 Do not forget to describe and provide an explanation for how you resolved the issue that you ran when doing this.
 
-**Nikita**:
+**Nikita**: I had to create a remote branch because in between tries to work on the rmarkdown file my github kept logging out.  I made sure that my branches were merged, knitted, staged, commited, pulled, then commited a message, then pushed to get this to my shahnikcode-patch-1 file.
 
 
 ## Wrapping Up
