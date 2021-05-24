@@ -31,7 +31,7 @@ Also, along with explaining your code, be sure to comment on what you notice in 
 
 ![Sleep patterns for mammals by diet](img/sleep_plot.png)
 
-```{r recreate-plot,out.width = "10000%", out.height="10000%",dpi=500 }
+```{r recreate-plot,out.width = "100%", out.height="100%",dpi=500 }
 ggplot(data = msleep, mapping = aes(x = sleep_total, y =  sleep_rem, color=vore, size=awake))+ geom_jitter(position=position_jitter(width = 0.001, height =0.01),alpha=.5) + theme(legend.text = element_text(size=4, vjust=0.5)) + theme(legend.title = element_text(size=6, vjust=3)) + theme(legend.margin=margin(t = 0, unit='cm'))+ theme(plot.margin = unit(c(.5,4,1,2), "cm")) + theme(plot.title=element_text(size=7, vjust=0)) + theme(axis.title.y=element_text(size=7, angle=90, vjust=-0.5)) + theme(axis.title.x=element_text(size=7,vjust=.9)) + theme(axis.text.y= element_text(size = 5)) + theme(axis.text.x= element_text(size = 5)) + labs(title="Sleep patterns for mammals by diet", x= "Total amount of sleep", y="Amount of rapid eye movement sleep",color = "Diet", size = "Amount of time spent awake")
 ```
 

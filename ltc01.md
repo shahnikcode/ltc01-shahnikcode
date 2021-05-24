@@ -35,7 +35,7 @@ ggplot(data = msleep, mapping = aes(x = sleep_total, y =  sleep_rem, color=vore,
 
     ## Warning: Removed 22 rows containing missing values (geom_point).
 
-<img src="ltc01_files/figure-gfm/recreate-plot-1.png" width="10000%" height="10000%" />
+<img src="ltc01_files/figure-gfm/recreate-plot-1.png" width="100%" height="100%" />
 
 **Nikita**: The easiest thing to do first for this plot was to notice
 that it could be a jitterplot or a point plot, and to view the table.
