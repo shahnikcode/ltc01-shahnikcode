@@ -136,7 +136,9 @@ the issue that you ran when doing this.
 work on the rmarkdown file my github kept logging out. I made sure that
 my branches were merged, knitted, staged, commited, pulled, then
 commited a message, then pushed to get this to my shahnikcode-patch-1
-file.
+file. I also realized that I incorrectly created a repository so I went
+back and created a new repository in my github and then tried pushing
+these items again. I also needed to push my readme file again.
 
 ## Wrapping Up
 
